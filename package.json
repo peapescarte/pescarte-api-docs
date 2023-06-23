@@ -1,0 +1,25 @@
+{
+  "name": "pescarte-api-docs",
+  "version": "1.0.0",
+  "description": "Documentação da API GraphQL da plataforma PEA Pescarte",
+  "scripts": {
+    "generate-docs": "magidoc generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peapescarte/pescarte-api-docs.git"
+  },
+  "keywords": [
+    "api",
+    "graphql"
+  ],
+  "author": "zoedsoupe <zoey.spessanha@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/peapescarte/pescarte-api-docs/issues"
+  },
+  "homepage": "https://github.com/peapescarte/pescarte-api-docs#readme",
+  "dependencies": {
+    "@magidoc/cli": "^4.0.0"
+  }
+}
