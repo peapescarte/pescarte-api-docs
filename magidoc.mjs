@@ -4,9 +4,10 @@ export default {
     url: 'https://pescarte.uenf.br/api'
   },
   website: {
+		staticAssets: './assets',
     template: 'carbon-multi-page',
     options: {
-      siteRoot: '/peapescarte/pescarte'
+      siteRoot: '/peapescarte/pescarte-api-docs'
     }
   }
 }
