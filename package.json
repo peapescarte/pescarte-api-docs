@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Documentação da API GraphQL da plataforma PEA Pescarte",
   "scripts": {
-    "generate-docs": "magidoc generate"
+    "generate-docs": "magidoc generate",
+		"preview-docs": "magidoc preview"
   },
   "repository": {
     "type": "git",
